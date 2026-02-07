@@ -1,0 +1,3 @@
+method,input_records,duplicates_found,actual_duplicates,detection_rate,execution_time,memory_mb,note
+Baseline (Exact Match),11500,477,1500.0,31.8,0.024812698364257812,1.015625,
+Baseline (Simple Fuzzy),10000,3194,,,1286.836148262024,-40.5078125,Limited sample only
